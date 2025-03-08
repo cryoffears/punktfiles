@@ -5,7 +5,7 @@ requirements.txt:
 
 - terminals: `kitty`,`cool-retro-term` ➜ neofetch: `neofetch --config ~/.config/neofetch/config_kitty.conf --kitty ~/images/simon.jpg`
 
-    └─ shell: `bash` (oh-my-bash) 
+    └─ shell: `bash` ([oh-my-bash](https://github.com/ohmybash/oh-my-bash)) 
 - clock:  `tty-clock`
 - conky
 - status bar: `slstatus` ➜ weather: wttr.in
