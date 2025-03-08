@@ -4,6 +4,8 @@ these are my personal dotfiles with a colorscheme inspired by the Cry of Fear th
 requirements.txt:
 
 - terminals: `kitty`,`cool-retro-term` ➜ neofetch: `neofetch --config ~/.config/neofetch/config_kitty.conf --kitty ~/images/simon.jpg`
+
+    └─ shell: `bash` (oh-my-bash) 
 - clock:  `tty-clock`
 - conky
 - status bar: `slstatus` ➜ weather: wttr.in
