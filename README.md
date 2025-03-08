@@ -3,14 +3,10 @@ these are my personal dotfiles with a colorscheme inspired by the Cry of Fear th
 
 requirements.txt:
 
-- Terminals: `kitty`,`cool-retro-term`
-
-↳`neofetch: neofetch --config ~/.config/neofetch/config_kitty.conf --kitty ~/images/simon.jpg`
+- Terminals: `kitty`,`cool-retro-term` ➜ `neofetch: neofetch --config ~/.config/neofetch/config_kitty.conf --kitty ~/images/simon.jpg`
 - Clock:  `tty-clock`
 - Conky
-- Status Bar: `slstatus`
-
-                ↳ Weather: wttr.in
+- Status Bar: `slstatus` ➜ Weather: wttr.in
 - Fonts: SF Pro Text, fontawesome, Hack Nerd Font, NotoColorEmoji, joypixels, fontello
 - Picom: for the blur and effects
 - Pywal
