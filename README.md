@@ -9,7 +9,7 @@ requirements.txt:
 - clock:  `tty-clock`
 - conky
 - status bar: `slstatus` ➜ weather: wttr.in
-- fonts: sf pro text, fontawesome, hack nerd font, notocoloremoji, joypixels, fontello
+- fonts: sf pro text, fontawesome, hack nerd font, notocoloremoji, joypixels
 - picom: for the blur and effects
 - pywal
 - dmenu
