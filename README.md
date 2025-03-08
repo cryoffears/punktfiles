@@ -1,13 +1,14 @@
 # punktfiles
 these are my personal dotfiles with a colorscheme inspired by the Cry of Fear theme, the adaptation of the envirnment's look and feel of the game in the dynamic window manager (DWM) these "punktfiles" aka dotfiles are inspired by the Cry of Fears theme with the wallpaper that takes color using `picom`
 
-Tools used in the screenshot:
+requirements.txt:
+
 - Terminals: `kitty`,`cool-retro-term`
-               ↳`neofetch: neofetch --config ~/.config/neofetch/config_kitty.conf --kitty ~/images/simon.jpg`
+  ↳`neofetch: neofetch --config ~/.config/neofetch/config_kitty.conf --kitty ~/images/simon.jpg`
 - Clock:  `tty-clock`
 - Conky
 - Status Bar:  `slstatus`
-                 ↳ Weather: wttr.in
+  ↳ Weather: wttr.in
 - Fonts: SF Pro Text, fontawesome, Hack Nerd Font, NotoColorEmoji, joypixels, fontello
 - Picom: for the blur and effects
 - Pywal
