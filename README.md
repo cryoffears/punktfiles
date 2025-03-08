@@ -5,12 +5,12 @@ requirements.txt:
 
 - Terminals: `kitty`,`cool-retro-term`
 
-               ↳`neofetch: neofetch --config ~/.config/neofetch/config_kitty.conf --kitty ~/images/simon.jpg`
+↳`neofetch: neofetch --config ~/.config/neofetch/config_kitty.conf --kitty ~/images/simon.jpg`
 - Clock:  `tty-clock`
 - Conky
-- Status Bar:  `slstatus`
+- Status Bar: `slstatus`
 
-                 ↳ Weather: wttr.in
+                ↳ Weather: wttr.in
 - Fonts: SF Pro Text, fontawesome, Hack Nerd Font, NotoColorEmoji, joypixels, fontello
 - Picom: for the blur and effects
 - Pywal
